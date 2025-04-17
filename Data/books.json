@@ -1,0 +1,73 @@
+[
+  {
+    "Title": "Duna",
+    "Author": "Frank Herbert",
+    "Description": "No deserto do planeta Arrakis, intrigas políticas e batalhas épicas se desenrolam em busca do controle da especiaria.",
+    "Status": "NotStarted",
+    "ImagePath": "Images/duna.jpg"
+  },
+  {
+    "Title": "Neuromancer",
+    "Author": "William Gibson",
+    "Description": "O romance cyberpunk que moldou a visão do futuro digital e das inteligências artificiais.",
+    "Status": "NotStarted",
+    "ImagePath": "Images/neuromancer.jpg"
+  },
+  {
+    "Title": "Fundação",
+    "Author": "Isaac Asimov",
+    "Description": "Uma saga que acompanha o declínio e renascimento de um império galáctico.",
+    "Status": "NotStarted",
+    "ImagePath": "Images/fundacao.jpg"
+  },
+  {
+    "Title": "Eu, Robô",
+    "Author": "Isaac Asimov",
+    "Description": "Uma coletânea de contos explorando as Leis da Robótica e seus dilemas.",
+    "Status": "NotStarted",
+    "ImagePath": "Images/eu_robo.jpg"
+  },
+  {
+    "Title": "Admirável Mundo Novo",
+    "Author": "Aldous Huxley",
+    "Description": "Uma sociedade futurista moldada por engenharia genética e condicionamento psicológico.",
+    "Status": "NotStarted",
+    "ImagePath": "Images/admiravel_mundo_novo.jpg"
+  },
+  {
+    "Title": "O Fim da Infância",
+    "Author": "Arthur C. Clarke",
+    "Description": "A chegada de alienígenas benevolentes transforma a civilização humana para sempre.",
+    "Status": "NotStarted",
+    "ImagePath": "Images/o_fim_da_infancia.jpg"
+  },
+  {
+    "Title": "Solaris",
+    "Author": "Stanisław Lem",
+    "Description": "Cientistas tentam compreender o misterioso oceano pensante do planeta Solaris.",
+    "Status": "NotStarted",
+    "ImagePath": "Images/solaris.jpg"
+  },
+  {
+    "Title": "A Mão Esquerda da Escuridão",
+    "Author": "Ursula K. Le Guin",
+    "Description": "Explora temas de gênero e cultura em um planeta onde os habitantes não possuem sexo fixo.",
+    "Status": "NotStarted",
+    "ImagePath": "Images/a_mao_esquerda_da_escuridao.jpg"
+  },
+  {
+    "Title": "O Guia do Mochileiro das Galáxias",
+    "Author": "Douglas Adams",
+    "Description": "Uma comédia interestelar cheia de humor absurdo e aventuras cósmicas.",
+    "Status": "NotStarted",
+    "ImagePath": "Images/o_guia_do_mochileiro_das_galaxias.jpg"
+  },
+  {
+    "Title": "2001: Uma Odisseia no Espaço",
+    "Author": "Arthur C. Clarke",
+    "Description": "Uma jornada épica da evolução humana e sua relação com inteligências superiores.",
+    "Status": "NotStarted",
+    "ImagePath": "Images/2001_uma_odisseia_no_espaco.jpg"
+  }
+]
+  

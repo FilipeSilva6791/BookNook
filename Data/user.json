@@ -1,0 +1,14 @@
+{
+  "Name": "batata",
+  "Email": "a",
+  "Bio": "a",
+  "Shelf": [
+    {
+      "Title": "Funda\u00E7\u00E3o",
+      "Author": "Isaac Asimov",
+      "Description": "Uma saga que acompanha o decl\u00EDnio e renascimento de um imp\u00E9rio gal\u00E1ctico.",
+      "Status": 2,
+      "ImagePath": "Images/fundacao.jpg"
+    }
+  ]
+}
