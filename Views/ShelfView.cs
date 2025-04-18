@@ -3,9 +3,16 @@ using BookNooK.Services;
 
 namespace BookNook.Views
 {
-    public static class ShelfView
+    public class ShelfView
     {
-        public static void Show(UserService userService)
+        private UserService userService;
+
+        public ShelfView(UserService userService)
+        {
+            this.userService = userService;
+        }
+
+        public void Show()
         {
             int option;
 

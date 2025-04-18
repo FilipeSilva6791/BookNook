@@ -2,9 +2,18 @@
 
 namespace BookNook.Views
 {
-    public static class SearchView
+    public class SearchView
     {
-        public static void Show(BookService bookService, UserService userService)
+        private UserService userService;
+        private BookService bookService;
+
+        public SearchView(UserService userService, BookService bookService)
+        {
+            this.userService = userService;
+            this.bookService = bookService;
+        }
+
+        public void Show()
         {
             int option;
 

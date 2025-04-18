@@ -2,9 +2,16 @@
 
 namespace BookNook.Views
 {
-    public static class ProfileView
+    public class ProfileView
     {
-        public static void Show(UserService userService)
+        private UserService userService;
+
+        public ProfileView(UserService userService)
+        {
+            this.userService = userService;
+        }
+
+        public void Show()
         {
             int option;
 

@@ -2,9 +2,16 @@
 
 namespace BookNook.Views
 {
-    public static class LoginView
+    public class LoginView
     {
-        public static void Show(UserService userService)
+        private UserService userService;
+
+        public LoginView(UserService userService)
+        {
+            this.userService = userService;
+        }
+
+        public void Show()
         {
             Console.WriteLine("=== Login View ===\n");
             Console.WriteLine("Welcome to BookNook APP!\n");
